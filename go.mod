@@ -1,4 +1,4 @@
-module github.com/emfcamp/gsm.emfcamp.org
+module github.com/emfcamp/gsm.emf.camp
 
 go 1.14
 

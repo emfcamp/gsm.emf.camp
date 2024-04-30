@@ -1,7 +1,7 @@
 {
-  "name": "gsm.emfcamp.org",
+  "name": "gsm.emf.camp",
   "version": "1.0.0",
-  "description": "These are the source files for <https://developer.emfcamp.org>.",
+  "description": "These are the source files for <https://gsm.emf.camp>.",
   "scripts": {
     "build": "npx hugo --minify --gc",
     "dev": "npx hugo server",

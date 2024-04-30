@@ -1,5 +1,5 @@
-baseURL = "https://gsm.emfcamp.org/"
-title = "gsm.emfcamp.org"
+baseURL = "https://gsm.emf.camp/"
+title = "gsm.emf.camp"
 description = "Documentation for the EMF GSM Network."
 
 # Language settings
