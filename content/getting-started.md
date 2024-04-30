@@ -4,6 +4,12 @@ description: >
   How to connect to, and use, the EMF GSM network
 ---
 
+{{% alert title="Warning" color="warning" %}}When your Handset registers to the network, you may need to retry any actions at least once before it becomes fully activated.
+
+We recomend you try one of the numbers on the [Services](/services/) page to do this
+{{% /alert %}}
+
+
 # Prereqs
 
 1. Have a c3gsm (e)SIM
