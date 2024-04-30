@@ -1,4 +1,4 @@
-# gsm.emfcamp.org
+# gsm.emf.camp
 
 These are the source files for <https://gsm.emf.camp>.
 
