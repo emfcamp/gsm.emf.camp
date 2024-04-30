@@ -1,6 +1,6 @@
 # gsm.emfcamp.org
 
-These are the source files for <https://gsm.emfcamp.org>.
+These are the source files for <https://gsm.emf.camp>.
 
 The site is statically generated using [Hugo](https://gohugo.io) and the [Docsy theme](https://www.docsy.dev).
 
