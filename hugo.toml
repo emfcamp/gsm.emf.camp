@@ -69,7 +69,7 @@ weight = 1
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
 
-github_repo = "https://github.com/emfcamp/gsm.emfcamp.org"
+github_repo = "https://github.com/emfcamp/gsm.emf.camp"
 github_branch= "main"
 
 offlineSearch = true
