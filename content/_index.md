@@ -22,5 +22,5 @@ We are hoping to start updating the content on this site soon. (You can help out
 -->
 
 
-To get support and or talk to us about these services, join us in the [#emfcamp-gsm IRC
-channel](https://web.libera.chat/?channel=#emfcamp-gsm) on [Libera Chat](https://libera.chat/)
+To get support and or talk to us about these services, join us in the [#emfcamp-lte IRC
+channel](https://web.libera.chat/?channel=#emfcamp-lte) on [Libera Chat](https://libera.chat/) (ignore the LTE, maybe next time)
