@@ -25,11 +25,11 @@ We recomend you try one of the numbers on the [Services](/services/) page to do 
 3. Disable VoLTE for 4G on your phone
     - VoLTE is known to cause issues
 4. Set APN on your phone to `internet`
-5. Call your chosen extentions registration number shown in \[REDACTED].
+5. Call your chosen extentions registration number shown in the [Electromagnetic Phonebook](https://phones.emfcamp.org/).
 6. Enjoy
 
 # Once connected
 
-See our friends over at EMF POC for some example numbers to call [here]()
+See our friends over at EMF POC for some example numbers to call [here](https://www.emfcamp.org/about/phones)
 
 For services specific to the EMF GSM network, please see the [Services](/services/) page
