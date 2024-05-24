@@ -108,7 +108,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub repo"
-  url = "https://github.com/emfcamp/gsmfcamp.org"
+  url = "https://github.com/emfcamp/gsm.emf.camp"
   icon = "fab fa-github"
   desc = "Source for this website!"
 [[params.links.developer]]
