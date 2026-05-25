@@ -4,7 +4,7 @@ cascade:
   - type: docs
 ---
 
-GSM @ EMF 2024
+GSM @ EMF 2026
 {.h2}
 
 
@@ -14,7 +14,7 @@ WARNING: THESE PAGES ARE FROM EMF 2022
 {.h2 .text-center}
 
 
-Some things may change or not be available at the 2024 event.
+Some things may change or not be available at the ~2024~ 2026 event.
 
 We are hoping to start updating the content on this site soon. (You can help out!)
 {{% /pageinfo %}}
