@@ -28,5 +28,7 @@ To get support and or talk to us about these services, join us in the [#emfcamp-
 channel](https://web.libera.chat/?channel=#emfcamp-lte) on [Libera Chat](https://libera.chat/) (ignore the LTE, maybe next time)
 
 {{% alert title="Under construction" color="warning" %}}We're still working on these documentation pages, so not everything here will be accurate just yet. Check back closer to the event for more information!
+
+Last updated: 26/05/2026
 {{% /alert %}}
 
