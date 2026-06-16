@@ -1,27 +1,31 @@
 // lifted from emfcamp/Website:css/_variables.scss
-$brand-2024-pale-green:         #AFC944;
-$brand-2024-mid-green:          #528329;
-$brand-2024-dark-green:         #213018;
-$brand-2024-yellow:             #F9E200;
-$brand-2024-orange:             #F77F02;
-$brand-2024-pink:               #F55089;
-$brand-2024-blue:               #2EADD9;
+$brand-2026-orange: #f77f02;
+$brand-2026-coral: #f5515e;
+$brand-2026-yellow: #f9e200;
+$brand-2026-green: #2ae28c;
+$brand-2026-light-blue: #2eadd9;  
+$brand-2026-mid-blue: #005d96;
+$brand-2026-dark-blue: #000730;
 
 $emf-colours: (
-  "emf-pale-green": $brand-2024-pale-green,
-  "emf-mid-green": $brand-2024-mid-green,
-  "emf-dark-green": $brand-2024-dark-green,
-  "emf-yellow": $brand-2024-yellow,
-  "emf-orange": $brand-2024-orange,
-  "emf-pink": $brand-2024-pink,
-  "emf-blue": $brand-2024-blue,
+  "emf-orange": $brand-2026-orange,
+  "emf-coral": $brand-2026-coral,
+  "emf-yellow": $brand-2026-yellow,
+  "emf-green": $brand-2026-green,
+  "emf-light-blue": $brand-2026-light-blue,
+  "emf-mid-blue": $brand-2026-mid-blue,
+  "emf-dark-blue": $brand-2026-dark-blue,
 );
 
-// EMF 2024 Dark Green
-$primary: #213018;
+// EMF 2026 orange
+$primary: $brand-2026-orange;
 
-// EMF 2024 Orange
-$secondary: #f77f02;
+// EMF 2026 coral
+$secondary: $brand-2026-coral;
 
-$google_font_name: "Titillium Web";
-$google_font_family: "Titillium+Web:300,300i,400,400i,700,700i";
+$headings-font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+$td-enable-google-fonts: true;
+
+$td-google-font-name: "Raleway";
+$td-google-font-family: "Raleway:ital,wght@0,300..900;1,300..900";
