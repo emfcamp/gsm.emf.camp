@@ -17,3 +17,7 @@ Make a note of the ICCID of your SIM card (it's written on the card itself!), an
 [ticket@c3gsm.de](mailto:ticket@c3gsm.de) along with a brief note asking them for the IMSI, Ki and OPC values.
 
 When you get the keys, send them to us at [poc@emfcamp.org](mailto:poc@emfcamp.org) and we'll add them into our system.
+
+## Self-Service Provisioning
+
+Self-service provisioning of SIM cards will be enabled closer to the event.

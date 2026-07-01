@@ -5,27 +5,18 @@ description: >
 ---
 
 ## Hardware
+
 ### BTS loans
 - Marrold of [CuTEL](https://cutel.net) and [ECHQ](https://echq.org.uk/)
 - Callum Snowden
-- ...
+- Billy [(site)](https://billy.wales)
+- Robyn [(site)](https://robyn.zip)
+
+
 ### SIM Cards
 - [c3gsm](https://c3gsm.de/) for letting us use their SIM Cards
-- ...
+
 
 ## Software
 - [Osmocom](https://osmocom.org/) for their Open Source telephony stack
-- ...
-
-## People
-### EMF GSM Team
-- eta
-- Sam
-- bonzi
-- ...
-### The c3gsm Team
-- lynxis
-- ...
-
-## Lots and lots of Club Mate
-How else 
+- [open5gs](https://open5gs.org/) for the 4G core!
