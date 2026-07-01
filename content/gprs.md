@@ -1,14 +1,22 @@
 ---
 title: GPRS
-description: >
-  Connecting to the Internet over the EMF GSM network
+description: Connecting to the Internet over the EMF GSM network
 ---
+
+{{% alert title="Important" color="warning" %}}
+GPRS data bandwidth is very limited - please do not enable this if you are using this SIM in a modern smartphone as the background services will use up a lot of network capacity.
+Instead use our LTE network for mobile data on modern smartphones, you will still fall back to GSM for phone calls.
+{{% /alert %}}
+
+You will need to enable GPRS for your SIM in order to be able to use data on 2G.
 
 GPRS is experimentally available on the EMF GSM network, and any APN should work (`internet` is fine).
 
-# WAP Gateway
+{{< figure src="/images/gprs-speed.jpg" caption="Screenshot of speedtest on EDGE" alt="17.9kB/s download, 7.62kB/s upload, 595ms ping, 344ms jitter." width="300px" >}}
 
-{{% alert title="Note" color="warning" %}}This WAP gateway is graciously hosted by [Billy](https://billy.wales), and isn't on the rest of the EMF GSM infrastructure. Your traffic will leave the camp network in order to get there, and we can't guarantee support for it.
+## WAP Gateway
+
+{{% alert title="Note" color="note" %}}This WAP gateway is graciously hosted by [Billy](https://billy.wales), and isn't on the rest of the EMF GSM infrastructure. Your traffic will leave the camp network in order to get there, and we can't guarantee support for it.
 {{% /alert %}}
 
 For devices that need a WAP Gateway (such as the Nokia 6310i and Nokia 6100), a third party installation of Kannel is available at `129.151.64.135`.
