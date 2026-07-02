@@ -16,10 +16,8 @@ GPRS is experimentally available on the EMF GSM network, and any APN should work
 
 ## WAP Gateway
 
-{{% alert title="Note" color="note" %}}This WAP gateway is graciously hosted by [Billy](https://billy.wales), and isn't on the rest of the EMF GSM infrastructure. Your traffic will leave the camp network in order to get there, and we can't guarantee support for it.
-{{% /alert %}}
-
 For devices that need a WAP Gateway (such as the Nokia 6310i and Nokia 6100), a third party installation of Kannel is available at `129.151.64.135`.
+
 The following steps are written with a Nokia device in mind, but should be useful for anyone trying to connect with the WAP gateway.
 
 1. Press Menu, select Services, and Settings.
