@@ -10,13 +10,13 @@ Instead use our LTE network for mobile data on modern smartphones, you will stil
 
 You will need to enable GPRS for your SIM in order to be able to use data on 2G.
 
-GPRS is experimentally available on the EMF GSM network, and any APN should work (`internet` is fine).
+[GPRS](https://en.wikipedia.org/wiki/GPRS) is experimentally available on the EMF GSM network, and any APN should work (`internet` is fine).
 
 {{< figure src="/images/gprs-speed.jpg" caption="Screenshot of speedtest on EDGE" alt="17.9kB/s download, 7.62kB/s upload, 595ms ping, 344ms jitter." width="300px" >}}
 
 ## WAP Gateway
 
-For devices that need a WAP Gateway (such as the Nokia 6310i and Nokia 6100), a third party installation of Kannel is available at `129.151.64.135`.
+For devices that need a WAP Gateway (such as the Nokia 6310i and Nokia 6100), a third party installation of Kannel is available to use.
 
 The following steps are written with a Nokia device in mind, but should be useful for anyone trying to connect with the WAP gateway.
 
