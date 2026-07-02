@@ -31,7 +31,7 @@ The following steps are written with a Nokia device in mind, but should be usefu
     - Data Bearer: GPRS
     - GPRS Connection: When needed (or Always, but this may drain battery!)
     - GPRS access point: internet
-    - IP address: `129.151.64.135`
+    - IP address: `92.118.29.108`
     - Authentication Type: Normal
     - Login Type: Automatic
     - User name / password: (leave blank)
