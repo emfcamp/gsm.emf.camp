@@ -25,7 +25,7 @@ The following steps are written with a Nokia device in mind, but should be usefu
 3. Scroll to the set you would like to edit and activate, and press *Activate*.
 4. Select *Edit active service settings*, and enter the following information:
     - Settings' name: "EMF" or similar name.
-    - Homepage: `http://wap.billy.wales` (or similar WML homepage)
+    - Homepage: `http://m.phones.emf.camp`
     - Session Mode: Permanent
     - Connection Security: Off
     - Data Bearer: GPRS
