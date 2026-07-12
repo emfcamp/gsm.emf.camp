@@ -18,6 +18,16 @@ Make a note of the ICCID of your SIM card (it's written on the card itself!), an
 
 When you get the keys, send them to us at [poc@emfcamp.org](mailto:poc@emfcamp.org) and we'll add them into our system.
 
+## 2024 EMF SIMs
+
+If you previously had a SIM at EMF then it may already be registered, try popping it in your handset of choice and see if it connects.
+
+If it doesn't connect after about 5 minutes, then you'll need to enter the SIM details in our Web UI.
+
 ## Self-Service Provisioning
 
-Self-service provisioning of SIM cards will be enabled closer to the event.
+To provision your SIM card you must have the secret key material (Ki and OPc), as well as the IMSI and ICCID.
+
+You can add your SIM on the [Electromagnetic Telecom website here](https://phones.emfcamp.org/services/sims).
+
+You will be assigned a temporary number once the SIM is added - you can change this to a number you have registered by dialing the registration code.

@@ -18,7 +18,7 @@ you're unsure.
 
 1. Register an number in the [Electromagnetic Phonebook](https://phones.emfcamp.org/), setting the type of service to GSM
 2. Insert SIM card into phone
-3. Dial 900, then enter your chosen number, and the activation code listed in the phonebook
+3. Dial 191 then when prompted, enter the registration code listed in the phonebook
 4. Enjoy!
 
 # Disclaimer
