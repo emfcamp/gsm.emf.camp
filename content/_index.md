@@ -13,8 +13,7 @@ camp phone system; you'll just need a phone that supports GSM in the 1800 MHz ba
 To get support and or talk to us about these services, join us in the [#emfcamp-lte IRC
 channel](https://web.libera.chat/?channel=#emfcamp-lte) on [Libera Chat](https://libera.chat/) (ignore the LTE, maybe next time)
 
-{{% alert title="Under construction" color="warning" %}}We're still working on these documentation pages, so not everything here will be accurate just yet. Check back closer to the event for more information!
-
-Last updated: 01/07/2026
+{{% alert title="Under construction" color="warning" %}}
+Our 2G network is live! 4G coming very soon! If you require any help - please don't hesistate to visit the Phones Tent!
 {{% /alert %}}
 
