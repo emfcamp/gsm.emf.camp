@@ -14,6 +14,5 @@ To get support and or talk to us about these services, join us in the [#emfcamp-
 channel](https://web.libera.chat/?channel=#emfcamp-lte) on [Libera Chat](https://libera.chat/) (ignore the LTE, maybe next time)
 
 {{% alert title="Under construction" color="warning" %}}
-Our 2G network is live! 4G coming very soon! If you require any help - please don't hesistate to visit the Phones Tent!
+EMF 2026 is now over, see you in 2028!
 {{% /alert %}}
-
